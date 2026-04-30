@@ -3,6 +3,7 @@ Semana1\Ejercicio3\Circulo.class
 Semana2\Ejercicio3\Despues\Main.class
 Semana1\Ejercicio2\Moto.class
 Semana3\Ejercicio3\Despues\FabricaAbstracta.class
+Semana4\EjercicioBonus\Antes\ServicioExcel.class
 Semana3\Ejercicio3\Antes\FabricaMueblesClasicos.class
 Semana4\Ejercicio1\Antes\Main.class
 Semana2\Ejercicio2\Despues\Canal.class
@@ -17,20 +18,26 @@ Semana3\Ejercicio3\Despues\MesaModerna.class
 Semana4\Ejercicio1\Antes\PagoPaypal.class
 Semana2\Ejercicio3\Despues\RobotV2.class
 Semana2\Ejercicio1\Despues\Main.class
+Semana4\EjercicioBonus\Antes\Main.class
 Semana3\Ejercicio2\Antes\DatabaseConnector.class
 Semana3\EjercicioBonus\Antes\GeneradorDocumentos.class
 Semana1\Ejercicio2\Vehiculo.class
 Semana2\Ejercicio2\Despues\Sms.class
 Semana3\EjercicioBonus\Antes\Main.class
+Semana4\Ejercicio2\Antes\SistemaHoteles.class
 Semana2\Ejercicio3\Antes\RobotV1.class
+Semana4\Ejercicio2\Antes\SistemaVuelos.class
 Semana3\Ejercicio2\Antes\Main.class
 Semana2\Ejercicio1\Antes\Main.class
 Semana3\Ejercicio2\Despues\DatabaseConnectorV2.class
+Semana4\Ejercicio2\Antes\SistemaAutos.class
 Semana3\Ejercicio3\Antes\SillaClasica.class
 Semana4\Ejercicio3\Antes\Main.class
+Semana4\EjercicioBonus\Antes\ServicioPDF.class
 Semana1\Ejercicio3\Figura.class
 Semana3\Ejercicio3\Despues\SillaClasica.class
 Semana3\Ejercicio1\Despues\Producto.class
+Semana4\Ejercicio3\Antes\Notificador.class
 Semana3\Ejercicio3\Despues\FabricaMueblesClasicos.class
 Semana3\Ejercicio1\Despues\TiendaRopa.class
 Semana1\Ejercicio1\Triangulo.class
@@ -47,7 +54,6 @@ Semana2\EjercicioBonus\Antes\CalculadoraDescuentos.class
 Semana2\Ejercicio2\Despues\GestorDeMensajesV2.class
 Semana2\Ejercicio3\Despues\TrabajadorHumano.class
 Semana3\Ejercicio1\Despues\ProductoElectronico.class
-Semana4\Ejercicio2\Antes\CalculadoraImpuestos.class
 Semana3\Ejercicio3\Antes\FabricaMueblesModernos.class
 Semana3\EjercicioBonus\Antes\Documento.class
 Semana1\Ejercicio3\Rectangulo.class
@@ -58,7 +64,6 @@ Semana1\Ejercicio3\Main.class
 Semana3\Ejercicio1\Despues\Main.class
 Semana3\Ejercicio3\Antes\Main.class
 Semana3\Ejercicio3\Despues\Main.class
-Semana4\Ejercicio3\Antes\Personaje.class
 Semana3\Ejercicio2\Despues\Main.class
 Semana3\Ejercicio1\Antes\Producto.class
 Semana3\Ejercicio3\Despues\SillaModerna.class
@@ -75,4 +80,3 @@ Semana3\Ejercicio1\Antes\Main.class
 Semana4\Ejercicio2\Antes\Main.class
 Semana2\Ejercicio3\Despues\HumanoV2.class
 Semana2\Ejercicio3\Despues\TrabajadorRobot.class
-Semana4\Ejercicio3\Antes\Controlador.class
