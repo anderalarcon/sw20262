@@ -86,9 +86,16 @@ C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana4\Ej
 C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana4\Ejercicio2\Despues\SistemaVuelos.java
 C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana4\Ejercicio3\Antes\Main.java
 C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana4\Ejercicio3\Antes\Notificador.java
+C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana4\Ejercicio3\Despues\EmailDecorator.java
+C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana4\Ejercicio3\Despues\LogDecorator.java
+C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana4\Ejercicio3\Despues\Main.java
+C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana4\Ejercicio3\Despues\Notificador.java
+C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana4\Ejercicio3\Despues\NotificadorBase.java
+C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana4\Ejercicio3\Despues\NotificadorDecorator.java
 C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana4\EjercicioBonus\Antes\Main.java
 C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana4\EjercicioBonus\Antes\ServicioExcel.java
 C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana4\EjercicioBonus\Antes\ServicioPDF.java
+C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana5\Ejercicio1\Despues\Main.java
 C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana5\Ejercicio1\Despues\Producto.java
 C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana5\Ejercicio1\Despues\ProductoAlimento.java
 C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana5\Ejercicio1\Despues\ProductoElectronico.java
@@ -99,3 +106,10 @@ C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana5\Ej
 C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana5\Ejercicio2\Despues\MetodoTarjeta.java
 C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana5\Ejercicio2\Despues\PagoService.java
 C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana5\Ejercicio3\Antes\NotificacionService.java
+C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana5\Ejercicio3\Despues\EmailFactory.java
+C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana5\Ejercicio3\Despues\EmailNotificacion.java
+C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana5\Ejercicio3\Despues\Main.java
+C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana5\Ejercicio3\Despues\Notificacion.java
+C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana5\Ejercicio3\Despues\NotificacionFactory.java
+C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana5\Ejercicio3\Despues\SmsFactory.java
+C:\Users\ander\Documents\NetBeansProjects\SOFTWARE20261\src\main\java\Semana5\Ejercicio3\Despues\SmsNotificacion.java
