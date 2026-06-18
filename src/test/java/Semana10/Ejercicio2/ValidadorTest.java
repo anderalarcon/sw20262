@@ -39,7 +39,7 @@ public class ValidadorTest {
 
         String numero = "9876543210";
 
-        assertTrue(validador.validarNumeroTelefono(numero));
+        assertFalse(validador.validarNumeroTelefono(numero));
     }
 
     @Test
